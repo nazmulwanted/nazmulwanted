@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Have no fear, Nazmul is here! Just a noob programmer btw.
+
+[![Nazmul's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmulwanted)](https://github.com/nazmulwanted/github-readme-stats)
+
