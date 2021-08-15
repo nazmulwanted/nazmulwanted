@@ -16,5 +16,29 @@ Here are some ideas to get you started:
 -->
 Have no fear, Nazmul is here! Just a noob programmer btw.
 
-[![Nazmul's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmulwanted)](https://github.com/nazmulwanted/github-readme-stats)
+## My Skills
+
+OS
+  
+![](https://img.shields.io/badge/Linux-blueviolet)
+  
+Web
+  
+![](https://img.shields.io/badge/HTML-yellowgreen)
+![](https://img.shields.io/badge/CSS-yellowgreen)
+  
+Programming Language
+  
+![](https://img.shields.io/badge/C%2B%2B-green)
+  
+Misc
+  
+![](https://img.shields.io/badge/Typing-red)
+![](https://img.shields.io/badge/Vim-Text%20Editor-green)
+
+## What I'm currently working with / Learning
+
+![](https://img.shields.io/badge/JavaScript-blue)
+![](https://img.shields.io/badge/Python-blue)
+![](https://img.shields.io/badge/C++-blue)
 
