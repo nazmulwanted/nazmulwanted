@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Have no fear, Nazmul is here! Just a noob programmer btw.
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulwanted&theme=blue-green)
 
 ## My Skills
