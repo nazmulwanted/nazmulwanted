@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Have no fear, Nazmul is here! Currently learning how to code and trying to become a better programmer.
+Have no fear, Nazmul is here! Currently learning how to code and trying to become a better programmer (also better human being).
 
 
 ## My Skills
